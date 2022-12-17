@@ -1,0 +1,27 @@
+{
+    "Apple": {
+        "Description" : "It's round and tasty.",
+        "Price" : 10
+    },
+    "Kvas": {
+        "Description" : "It's a yellow drink. Don't confuse with beer.",
+        "Price" : 50
+    },
+    "Bread": {
+        "Description" : "Soft and squishy. Good with different ingredients.",
+        "Price" : 35
+    },
+    "Chocolate": {
+        "Description" : "Cacao with milk in a solid form. Very tasty.",
+        "Price" : 60
+    },
+    "Great Britain": {
+        "Description": "Has british people in it. AVOID AT ALL COSTS.",
+        "Price": 20
+    },
+    "Ice cream": {
+        "Description": "Cold, delicious snack.",
+        "Price": 70
+    }
+
+}
